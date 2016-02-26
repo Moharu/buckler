@@ -1,0 +1,22 @@
+{
+  "name": "buckler",
+  "version": "1.0.0",
+  "description": "kinda-like SHIELD",
+  "main": "buckler.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Moharu/buckler.git"
+  },
+  "author": "João Teló <Moharu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Moharu/buckler/issues"
+  },
+  "homepage": "https://github.com/Moharu/buckler",
+  "dependencies": {
+    "restify": "^4.0.4"
+  }
+}
