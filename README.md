@@ -11,3 +11,5 @@ It simply forwards all requests to the desired elasticsearch cluster, but requir
 1. Configure you ES firewall to only accept requests from the machine running buckler.
 2. Edit the config.js file with the port the server will run and the ES address, OR inject them as environment variables (PORT, ELASTICSEARCH)
 3. Edit the allowedClients.js file, so that it exports the allowed username/password combinations.
+4. npm install
+5. npm start

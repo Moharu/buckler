@@ -4,7 +4,7 @@
   "description": "kinda-like SHIELD",
   "main": "buckler.js",
   "scripts": {
-    "test": "grunt test"
+    "start": "node buckler.js"
   },
   "repository": {
     "type": "git",
