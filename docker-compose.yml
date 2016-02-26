@@ -1,0 +1,4 @@
+buckler:
+  build: .
+  ports:
+   - "9201:9201"
